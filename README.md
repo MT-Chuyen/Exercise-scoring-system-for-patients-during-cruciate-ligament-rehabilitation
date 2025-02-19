@@ -1,10 +1,6 @@
 # Exercise-scoring-system-for-patients-during-cruciate-ligament-rehabilitation
 Exercise scoring system for patients during cruciate ligament rehabilitation
 
-To open file:
+Description: The project develops a code that receives input data as coordinates from a marker-based system recorded to represent joint angles as the user runs on the Treadmil.
 
-Minmap : https://mt-chuyen.github.io/Exercise-scoring-system-for-patients-during-cruciate-ligament-rehabilitation/mindmap.pdf
-
-Powerpoint : https://mt-chuyen.github.io/Exercise-scoring-system-for-patients-during-cruciate-ligament-rehabilitation/Running_Explanation.pptx
-
-Word: https://mt-chuyen.github.io/Exercise-scoring-system-for-patients-during-cruciate-ligament-rehabilitation/Running_Agnle.docx
+Achievement: Code is being used by the engineers at Motion Analysis Lab - Vinmec
